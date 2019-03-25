@@ -3,7 +3,7 @@ function getData(url){
         type:"GET",
         url:url,
         success:function(data){
-            console.log(1);
+            console.log(data);
         },
         error:function(){
             console.log("error");
