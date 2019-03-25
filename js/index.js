@@ -1,7 +1,7 @@
 var nowIndex = 0;
 var dataList;
 var len;
-var audio = root.audioManager;
+var audio = audioManager;
 var timer;
 
 
