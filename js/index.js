@@ -13,4 +13,4 @@ function getData(url){
 
 
 
-getData('../mock/data.json');
+getData('../music/mock/data.json');
