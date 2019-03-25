@@ -3,6 +3,11 @@
     padding: 0;
     list-style: none;
 }
+body{
+    background-repeat:no-repeat;
+    background-size:100%,100%;
+    background-position:center;
+}
 .wrapper{
     width: 100vw;
     height: 100vh;
